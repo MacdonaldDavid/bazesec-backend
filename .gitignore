@@ -1,0 +1,22 @@
+# Ignore Visual Studio folders
+.vs/
+BazeSec/.vs/
+
+# Ignore build folders
+bin/
+obj/
+BazeSec/bin/
+BazeSec/obj/
+
+# Ignore uploads
+BazeSec/wwwroot/uploads/
+
+# Ignore user-specific VS files
+*.user
+*.suo
+*.cache
+*.db
+*.opendb
+
+# Ignore logs
+*.log
